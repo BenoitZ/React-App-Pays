@@ -1,0 +1,52 @@
+{
+  "articles": [
+    {
+      "author": "From Scratch",
+      "content": "      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.",
+      "date": 1621530288602,
+      "id": 1
+    },
+    {
+      "author": "Bill Gates",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.\n\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.",
+      "date": 1621536029778,
+      "id": 2
+    },
+    {
+      "author": "Mark Zuckerberg",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. ",
+      "date": 1621536056135,
+      "id": 3
+    },
+    {
+      "author": "TEST",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.",
+      "date": 1682861504219,
+      "id": 4
+    },
+    {
+      "author": "Ben",
+      "content": "Posté le 30 avril 2023 à 15:31:44\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.\n\n",
+      "date": 1682861760662,
+      "id": 5
+    },
+    {
+      "author": "Bibi",
+      "content": "r sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.\n\n",
+      "date": 1682862116606,
+      "id": 6
+    },
+    {
+      "author": "bobo",
+      "content": "r sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.\n\n",
+      "date": 1682862203501,
+      "id": 7
+    },
+    {
+      "author": "Baba",
+      "content": "r sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.\n\n",
+      "date": 1682862229154,
+      "id": 8
+    }
+  ]
+}
